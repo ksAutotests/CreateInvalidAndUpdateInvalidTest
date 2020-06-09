@@ -1,9 +1,8 @@
 ---
-title: autotestITriRM
-description: autotest42813Z_6/9/2020 11:24:42 PM
-tags: []
-primary_tag: tutorial:product/sapHana
-time: 492
+title: autotest74B2hi
+description: autotestw7n861_6/9/2020 11:24:42 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+time: 919
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
