@@ -1,9 +1,8 @@
 ---
-title: autotestFb2Flg
-description: autotestG0v24A_6/21/2020 7:05:22 AM
-tags: []
-primary_tag: tutorial:product/sapHana
-time: 575
+title: autotest2ajhc7
+description: autotest672j42_6/21/2020 7:05:22 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+time: 283
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
