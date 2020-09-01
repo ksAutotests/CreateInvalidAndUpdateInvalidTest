@@ -1,8 +1,0 @@
----
-title: autotest014a3E
-description: autotesteFAJ51_9/1/2020 8:11:27 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
-time: 180
-author_profile: https://github.com/ksAutotests
-author_name: ksAutotests
----
