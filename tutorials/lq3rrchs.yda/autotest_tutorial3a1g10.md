@@ -1,9 +1,8 @@
 ---
-title: autotestMtd2uA
-description: autotest60Qp16_10/15/2020 4:48:02 AM
-tags: []
-primary_tag: tutorial:product/sapHana
-time: 294
+title: autotestxPV117
+description: autotest577Y7c_10/15/2020 4:48:02 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+time: 930
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
